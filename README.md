@@ -6,35 +6,25 @@
 - 💞️ I’m looking to collaborate with other Developer creators ...
 - 📫 How to reach me kiranlal6dx@gmail.com...
 
-**find me**
+**find me** <img src="https://media.giphy.com/media/aeLxqo44Gy3UyJgCsD/giphy.gif" width="50px">
 
 <br>
 
-![317727_facebook_social media_social_icon](https://user-images.githubusercontent.com/50728217/165380434-a414498a-08c8-42e3-882b-b555f78e7988.svg) 
-![317725_linkedin_social_icon](https://user-images.githubusercontent.com/50728217/165380609-e45718c3-7bf8-42ea-873c-72a39bbab354.svg)
-<!-- ![4102579_applications_instagram_media_social_icon](https://user-images.githubusercontent.com/50728217/165381269-6a9943ab-1bf6-43e6-9144-495d3723ab80.svg)
-![4102579_applications_instagram_media_social_icon](https://user-images.githubusercontent.com/50728217/165381140-a93fe200-df1a-4b9b-9c62-15bd04f6aab8.svg)
-![5296516_tweet_twitter_twitter logo_icon](https://user-images.githubusercontent.com/50728217/165381178-1e43987d-8383-4e1e-9cc4-ee081a0fb034.svg) -->
-
-
-
-
-
-<!-- <a href="https://www.linkedin.com/in/kiran-lal/">
-  <img align="left" alt="Kiranlal's Instagram" width="22px" src="https://iconscout.com/3d/linkedin-2950130" />
+<a href="https://www.linkedin.com/in/kiran-lal/">f08c
+<!--   <img align="left" alt="Kiranlal's Instagram" width="22px" src="" /> -->
 </a>
 <a href="https://www.instagram.com/kiranlal_2/">
   <img align="left" alt="Kiranlal's Discord" width="22px" src="" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Kiranlal's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.facebook.com/kiranlal6dx/">
+  <img align="left" alt="Kiranlal's Twitter" width="22px" src="https://media.giphy.com/media/oHgEVQfGJsOvmUfFdP/giphy-downsized-large.gif" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Kiranlal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://twitter.com/kiranlal2_">
+  <img align="left" alt="Kiranlal's LinkedIN" width="22px" src="https://media.giphy.com/media/oHgEVQfGJsOvmUfFdP/giphy-downsized-large.gif" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
- -->
+![](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+ 
 <br />
 
 hi, i'm a passionate self-taught Front end web developer and a freelancer from india. i take great care in the experience, architecture, and code quality of the things I build.
