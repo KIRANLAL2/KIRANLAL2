@@ -10,18 +10,19 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/kiran-lal/">f08c
-<!--   <img align="left" alt="Kiranlal's Instagram" width="22px" src="" /> -->
+<a href="https://www.linkedin.com/in/kiran-lal/">
+  <img align="left" alt="Kiranlal's Instagram" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />
 </a>
 <a href="https://www.instagram.com/kiranlal_2/">
-  <img align="left" alt="Kiranlal's Discord" width="22px" src="" />
+  <img align="left" alt="Kiranlal's Discord" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6590558241561032669-512.png" />
 </a>
 <a href="https://www.facebook.com/kiranlal6dx/">
-  <img align="left" alt="Kiranlal's Twitter" width="22px" src="https://media.giphy.com/media/oHgEVQfGJsOvmUfFdP/giphy-downsized-large.gif" />
+  <img align="left" alt="Kiranlal's Twitter" width="22px" src="https://pics.freeicons.io/uploads/icons/png/14179583611530077750-512.png" />
 </a>
 <a href="https://twitter.com/kiranlal2_">
-  <img align="left" alt="Kiranlal's LinkedIN" width="22px" src="https://media.giphy.com/media/oHgEVQfGJsOvmUfFdP/giphy-downsized-large.gif" />
+  <img align="left" alt="Kiranlal's LinkedIN" width="22px" src="https://pics.freeicons.io/uploads/icons/png/5959933821530099343-512.png" />
 </a>
+
 
 ![](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
  
