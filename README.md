@@ -67,6 +67,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="https://twitter.com/kiranlal2_">
   <img align="left" alt="Kiranlal's LinkedIN" width="40px" src="https://pics.freeicons.io/uploads/icons/png/5959933821530099343-512.png" />
 </a>
+<a href="https://www.wppredirect.tk/go/?p=&m=Hi">
+  <img align="left" alt="Kiranlal's Whatsapp" width="40px" src="https://pics.freeicons.io/uploads/icons/png/15755769251556105345-512.png" />
+</a>
 <!-- 📈 my github stats -->
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="Kiranlal's" /> -->
