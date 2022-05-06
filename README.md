@@ -1,4 +1,5 @@
 <h2>Hey!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Nice to see you.</h2>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif" width="500" height="320" />
 
 - 👋 I’m KIRANLAL
 - 👀 I’m interested in Web and App Development...
