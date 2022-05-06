@@ -1,5 +1,6 @@
+<img align="right" alt="GIF" src="https://media.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif" />
+
 <h2>Hey!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Nice to see you.</h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif" width="500" height="320" />
 
 - 👋 I’m KIRANLAL
 - 👀 I’m interested in Web and App Development...
@@ -7,7 +8,7 @@
 - 💞️ I’m looking to collaborate with other Developer creators ...
 - 📫 How to reach me kiranlal6dx@gmail.com...
 
-![](https://media.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif)
+<!-- ![](https://media.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif) -->
 
 <br><h1>languages and tools</h1><hr><br>
 
