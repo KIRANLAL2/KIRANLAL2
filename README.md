@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif" width="300" />
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif" width="300" /> -->
 
 <h2>Hey!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Nice to see you.</h2>
 
@@ -11,6 +11,8 @@
 <!-- ![](https://media.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif) -->
 
 <br><h1>languages and tools</h1><hr><br>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif" width="300" />
 
 <code><img height="40" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png"></code>
 <code><img height="40" src="https://pics.freeicons.io/uploads/icons/png/6655067911551942823-512.png"></code>
