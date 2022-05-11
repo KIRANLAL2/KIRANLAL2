@@ -3,15 +3,14 @@
 <h2>Hey!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Nice to see you.</h2>
 
 - 👋 I’m KIRANLAL
-- 👀 I’m interested in Web and App Development...
+- 👀 I’m interested in Web and Mobile App Development...
 - 🌱 I’m currently learning React.js, React Native, Java...
 - 💞️ I’m looking to collaborate with other Developer creators ...
 - 📫 How to reach me kiranlal6dx@gmail.com...
 
 <!-- ![](https://media.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif) -->
 
-<br><h1>languages and tools</h1><hr><br>
-
+<br><h1>languages and tools</h1><br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif" width="300" />
 
 <code><img height="40" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png"></code>
@@ -57,7 +56,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💬 ask me about anything, i am happy to help;
 
 
-<br><h1>find me <img src="https://media.giphy.com/media/aeLxqo44Gy3UyJgCsD/giphy.gif" width="50px"></h1><hr>
+<br><h1>find me <img src="https://media.giphy.com/media/aeLxqo44Gy3UyJgCsD/giphy.gif" width="50px"></h1>
 
 <a href="https://www.linkedin.com/in/kiran-lal/">
   <img align="left" alt="Kiranlal's Instagram" width="40px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />
