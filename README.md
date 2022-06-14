@@ -55,7 +55,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💬 ask me about anything, i am happy to help;
 
 
-<br><h1>find me <img src="https://media.giphy.com/media/aeLxqo44Gy3UyJgCsD/giphy.gif" width="50px"></h1>
+<br><h1>find me <img src="https://media.giphy.com/media/aeLxqo44Gy3UyJgCsD/giphy.gif" width="50"></h1>
 
 <a href="https://www.linkedin.com/in/kiran-lal/">
   <img align="left" alt="Kiranlal's Instagram" width="40px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />
